@@ -52,7 +52,7 @@ Make sure to update your backend API URLs inside the frontend code (`axios` call
 
 ## 📂 Folder Structure
 
-
+```
 client/
 ├── public/
 ├── src/
@@ -62,5 +62,5 @@ client/
 │   │   └── Dashboard.js
 │   ├── App.js
 │   └── index.js
-
+```
 
