@@ -1,4 +1,4 @@
-# 📝 NotesApp - React Frontend (MERN Stack Project)
+# 📝 NotesApp - (MERN Stack Project)
 
 
 It allows users to:
